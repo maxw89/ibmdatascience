@@ -1,2 +1,2 @@
 # ibmdatascience
-This respository has been created to help me achieving my IBM Science Data Professional certificate
+This repository has been created to help me achieve my IBM Science Data Professional certificate.
